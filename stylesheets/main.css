@@ -1,0 +1,23 @@
+h2 {
+  color: white;
+  background-color: red;
+  font-size: 30;
+}
+
+p {
+  color: white;
+  background-color: #333333;
+  text-decoration: underline;
+  text-align: right;
+}
+
+footer {
+  color: white;
+  background-color: #333333;
+}
+
+aside {
+  color: black;
+  float: right;
+
+}
